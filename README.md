@@ -3,7 +3,8 @@ This is the official implementation of ICLR2023 Spotlight paper
 ## [Learning Diffusion Bridges on Constrained Domains](https://openreview.net/forum?id=WH1yCa0TbB) 
 by *Xingchao Liu, Lemeng Wu, Mao Ye, Qiang Liu* from UT Austin
 
-![fig1](./github_misc/fig1.png)
+<img src=./github_misc/fig1.png width=200 />
+
 
 # Introduction
 We present a simple and unified framework to learn diffusion models on constrained and structured domains. It can be easily adopted to various
